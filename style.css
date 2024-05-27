@@ -1,0 +1,67 @@
+header{
+    background-color: whitesmoke;
+   
+
+}
+header{
+    display: flex;
+    padding-left: 15%;
+
+}
+header img{
+    width: 15%;
+    height: 7em;
+    margin: 1% 5% 5% 1%;
+}
+header nav{
+    background-color: burlywood;
+    height: 5rem;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-family:  Algerian;
+    
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+h3{
+    text-align: center;
+    color: blue;
+    font-family: algerian;
+    text-decoration: underline;
+}
+h4{
+    text-align: center;
+    font-weight: bold;
+
+}
+p{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+#frmservice{
+    margin: 0 25% 0 25%;
+    background-color: whitesmoke;
+    padding-left: 3%;
+    
+}
+
+input[type=button]{
+    background-color: lawngreen;
+    position: relative;
+    margin: 5% 45% 5% 45%;
+    width: 15%;
+    height: 2rem;
+    border-radius: 25%;
+
+}
+
+input[type=text]{
+    height: 10%;
+}
